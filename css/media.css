@@ -1,0 +1,88 @@
+@media(max-width: 768px) {
+	.banner-part h1 {
+    font-size: 27px;
+    padding-top: 1px;
+    text-align: center;
+    margin-top: 43px!important;
+}
+	.p {
+    margin-top: 0;
+    margin: -5px 0;
+}
+	.btn {
+}	
+	.banner-part {
+    height: 641px;
+}
+	.banner-part img {
+    height: 250px;
+    width: 350px;
+    margin: 9px 0 0 57px;
+	}
+	.price-section {
+    margin-top: 247px;
+    height: 1300px;
+}
+.price-part {
+    margin-bottom: 15px;
+}
+.footer-section {
+    padding-left: 51px;
+}
+.footer-section ul {
+    margin-left: 12px;
+}
+.footer-section input {
+   width: 52%!important;
+}
+.banner-part h1, .banner-part p, .banner-part button {
+    margin: auto;
+    font-size: 14px;
+}
+.btn-primary {
+    margin-left: 117px!important;
+}
+
+}
+@media(max-width: 992px) {
+	.banner-part img {
+    height: 250px;
+    width: 350px;
+    margin: 21px 0 0 10px!important;
+}
+.btn {
+    margin: auto;
+}
+.banner-part h1, .banner-part p, .banner-part button {
+    margin: auto;
+}
+.trusted-section img {
+    width: 132px;
+    transition: all 500ms ease-in-out;
+    margin-top: 36px;
+    margin-bottom: 80px;
+}
+.team-section ul {
+    padding-left: 20px;
+    padding-top: 7px;
+    margin-bottom: 80px;
+}
+.footer-section input {
+    width: 100%;
+}
+.footer-section button {
+    padding: 5px 62px;
+    margin: 5px 0;
+}
+}
+@media(max-width: 1200px) {
+	.banner-part img {
+    margin: 21px 0 0 20px;
+}
+}
+
+
+
+
+
+
